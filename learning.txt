@@ -2,6 +2,9 @@ learning from platform
 Dsa
 java
 
-
+learning web dev
+HTML
+CSS
+JS
 
 Thank you :)
